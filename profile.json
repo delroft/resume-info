@@ -1,0 +1,60 @@
+{
+    "profile": [
+        {
+            "description": "IBM Certified Cloud Application Developer V1",
+            "proof": "ibmCloud"
+        },
+        {
+            "description": "Sun Certified Web Component Developer for J2EE 1.4",
+            "proof": "scwcd"
+        },
+        {
+            "description": "Sun Certified Java 2 Programmer",
+            "proof": "scjp2"
+        },
+        {
+            "description": "Sun Certified Java Programmer",
+            "proof": "scjp1"
+        },
+        {
+            "description": "${workYears} years of work experience in enterprise/web application design and development using Java, HTML, CSS, Javascript, and other technologies",
+            "emphasized": true
+        },
+        {
+            "description": "${leadYears} years of Lead role experience"
+        },
+        {
+            "description": "Experienced in requirements gathering, analysis and design, coding, testing and debugging, and support"
+        },
+        {
+            "description": "Software Architecting/ Engineering"
+        },
+        {
+            "description": "Proficient in IBM WebSphere and Rational products such as WebSphere Portal Server, WebSphere Application Server, WebSphere Rational Application Developer, Rational Team Concert, and Rational Software Architect"
+        },
+        {
+            "description": "Instructor and facilitator in Java Bootcamps in IBM"
+        },
+        {
+            "description": "Conducted trainings for the Java programmer trainees"
+        },
+        {
+            "description": "Also conducted Java trainings in USA for professional certification of the students"
+        },
+        {
+            "description": "Graduate of Bachelor of Science in Computer Engineering"
+        },
+        {
+            "description": "Recognized as one of the Top Value Creators;"
+        },
+        {
+            "description": "Was awarded the Award of Excellence for Outstanding Professional Initiative and Performance;"
+        },
+        {
+            "description": "Was awarded the Service Level Excellence Award"
+        },
+        {
+            "description": "Six Sigma Green Belt"
+        }
+    ]
+}
